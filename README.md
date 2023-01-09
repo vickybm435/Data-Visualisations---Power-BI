@@ -3,6 +3,7 @@ Hello, welcome to my Portfolio Projects page! Here is where I will go in depth i
 - i have done visualisations on two datasets that are
 - imdb movie analysis
 - sales report analysis
+- banking churn analysis
 - both the datasets i got it from kaggle and then i cleaned according to my requirements and then i created the dashboard
 
 
